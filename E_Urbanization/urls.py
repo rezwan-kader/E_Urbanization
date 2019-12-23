@@ -29,5 +29,6 @@ urlpatterns = [
     path('contact/', views.contact),
     path('',views.home_2),
     path('register',views.register),
+    path('login/',views.login),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 
