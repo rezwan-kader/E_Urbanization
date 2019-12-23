@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e87f8dab-0e88-41a7-a0de-93f11e7cc973" name="Default Changelist" comment="" />
+    <list default="true" id="e87f8dab-0e88-41a7-a0de-93f11e7cc973" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="E_Urbanization" type="Python.DjangoServer" factoryName="Django server">
@@ -99,7 +102,8 @@
       <workItem from="1576867010859" duration="7066000" />
       <workItem from="1576911465492" duration="2624000" />
       <workItem from="1576938685600" duration="4057000" />
-      <workItem from="1577108601099" duration="1452000" />
+      <workItem from="1577108601099" duration="1985000" />
+      <workItem from="1577110626013" duration="40000" />
     </task>
     <servers />
   </component>
@@ -123,31 +127,35 @@
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="662" y="60" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1676.902@0.0.1676.902" timestamp="1576832351913" />
-    <state width="815" height="138" key="GridCell.Tab.0.bottom" timestamp="1577109979916">
+    <state x="617" y="256" key="FileChooserDialogImpl" timestamp="1577110519081">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="617" y="256" key="FileChooserDialogImpl/0.0.1676.902@0.0.1676.902" timestamp="1577110519081" />
+    <state width="1631" height="138" key="GridCell.Tab.0.bottom" timestamp="1577110594109">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state width="1631" height="136" key="GridCell.Tab.0.bottom/0.0.1676.902/1920.0.1187.629@0.0.1676.902" timestamp="1576683131850" />
-    <state width="815" height="138" key="GridCell.Tab.0.bottom/0.0.1676.902@0.0.1676.902" timestamp="1577109979916" />
-    <state width="815" height="138" key="GridCell.Tab.0.center" timestamp="1577109979916">
+    <state width="1631" height="138" key="GridCell.Tab.0.bottom/0.0.1676.902@0.0.1676.902" timestamp="1577110594109" />
+    <state width="1631" height="138" key="GridCell.Tab.0.center" timestamp="1577110594109">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state width="1631" height="136" key="GridCell.Tab.0.center/0.0.1676.902/1920.0.1187.629@0.0.1676.902" timestamp="1576683131850" />
-    <state width="815" height="138" key="GridCell.Tab.0.center/0.0.1676.902@0.0.1676.902" timestamp="1577109979916" />
-    <state width="815" height="138" key="GridCell.Tab.0.left" timestamp="1577109979916">
+    <state width="1631" height="138" key="GridCell.Tab.0.center/0.0.1676.902@0.0.1676.902" timestamp="1577110594109" />
+    <state width="1631" height="138" key="GridCell.Tab.0.left" timestamp="1577110594109">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state width="1631" height="136" key="GridCell.Tab.0.left/0.0.1676.902/1920.0.1187.629@0.0.1676.902" timestamp="1576683131850" />
-    <state width="815" height="138" key="GridCell.Tab.0.left/0.0.1676.902@0.0.1676.902" timestamp="1577109979916" />
-    <state width="815" height="138" key="GridCell.Tab.0.right" timestamp="1577109979916">
+    <state width="1631" height="138" key="GridCell.Tab.0.left/0.0.1676.902@0.0.1676.902" timestamp="1577110594109" />
+    <state width="1631" height="138" key="GridCell.Tab.0.right" timestamp="1577110594109">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state width="1631" height="136" key="GridCell.Tab.0.right/0.0.1676.902/1920.0.1187.629@0.0.1676.902" timestamp="1576683131850" />
-    <state width="815" height="138" key="GridCell.Tab.0.right/0.0.1676.902@0.0.1676.902" timestamp="1577109979916" />
-    <state x="346" y="144" key="SettingsEditor" timestamp="1577109721438">
+    <state width="1631" height="138" key="GridCell.Tab.0.right/0.0.1676.902@0.0.1676.902" timestamp="1577110594109" />
+    <state x="346" y="144" key="SettingsEditor" timestamp="1577110583036">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="346" y="92" key="SettingsEditor/0.0.1676.902/1920.0.1187.629@0.0.1676.902" timestamp="1576671098787" />
-    <state x="346" y="144" key="SettingsEditor/0.0.1676.902@0.0.1676.902" timestamp="1577109721438" />
+    <state x="346" y="144" key="SettingsEditor/0.0.1676.902@0.0.1676.902" timestamp="1577110583036" />
     <state x="650" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577109966366">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
