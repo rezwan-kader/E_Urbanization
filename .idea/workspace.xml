@@ -103,7 +103,7 @@
       <workItem from="1576911465492" duration="2624000" />
       <workItem from="1576938685600" duration="4057000" />
       <workItem from="1577108601099" duration="1985000" />
-      <workItem from="1577110626013" duration="222000" />
+      <workItem from="1577110626013" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="Just testing">
       <created>1577110694533</created>
@@ -112,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577110694533</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Just testing">
+      <created>1577110852540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577110852540</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,10 +146,10 @@
       <screen x="0" y="0" width="1676" height="902" />
     </state>
     <state x="662" y="60" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1676.902@0.0.1676.902" timestamp="1576832351913" />
-    <state x="464" y="0" key="CommitChangelistDialog2" timestamp="1577110693486">
+    <state x="464" y="0" key="CommitChangelistDialog2" timestamp="1577110851751">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state x="464" y="0" key="CommitChangelistDialog2/0.0.1676.902@0.0.1676.902" timestamp="1577110693486" />
+    <state x="464" y="0" key="CommitChangelistDialog2/0.0.1676.902@0.0.1676.902" timestamp="1577110851751" />
     <state x="617" y="256" key="FileChooserDialogImpl" timestamp="1577110519081">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
