@@ -31,3 +31,7 @@ def register(request):
 
 def login(request):
     return render(request, 'login.html')
+
+
+def apartment(request):
+    return render(request,'Apartment.html')
