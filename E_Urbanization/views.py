@@ -33,5 +33,9 @@ def login(request):
     return render(request, 'login.html')
 
 
-def apartment(request):
-    return render(request,'Apartment.html')
+def appointments(request):
+    return render(request, 'appointments.html')
+
+
+def blog(request):
+    return render(request,'blog.html')
