@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        live-server=live_server.cli:cli
+    

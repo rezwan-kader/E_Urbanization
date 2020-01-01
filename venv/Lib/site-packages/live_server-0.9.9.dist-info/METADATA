@@ -1,0 +1,63 @@
+Metadata-Version: 2.1
+Name: live-server
+Version: 0.9.9
+Summary: Serves your pages for development and automatically reloads when changed.
+Home-page: https://github.com/ajitid/live_server
+Author: Ajit Singh
+Author-email: ajit.singh2905@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
+Requires-Dist: Click (==7.0)
+Requires-Dist: tornado (==5.1.1)
+Requires-Dist: watchdog (==0.9.0)
+Requires-Dist: beautifulsoup4 (==4.6.3)
+
+# Live Server
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+Serve static files and reload them when they get changed. Great for development!
+
+Inspired by [live-server](https://www.npmjs.com/package/live-server) for Node.
+
+## Install
+
+Install it globally
+
+```
+pip install live-server
+```
+
+## Use
+
+Start Live Server in a folder with command line by using
+
+```
+live-server
+```
+
+or give it a path
+
+```
+live-server ../static
+```
+
+Explore more options like changing port number using
+
+```
+live-server --help
+```
+
+## Found a bug?
+
+Raise an issue at its [repo](https://www.github.com/ajitid/live_server).
+
+
